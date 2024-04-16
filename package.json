@@ -1,0 +1,11 @@
+{
+  "name": "hello-java-script",
+  "version": "1.0.0",
+  "description": "jkwdfhwejkfbk jfef mn",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
